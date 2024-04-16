@@ -33,7 +33,7 @@ make -j 4
 
 ## 运行
 ```
-././rknn_cnn_demo
+./rknn_cnn_demo
 ```
 正常的话会显示下面的结果,图片是一个手写字母![m.jpg](model/m.jpg)，识别正确
 
